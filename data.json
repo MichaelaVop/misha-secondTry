@@ -1,0 +1,22 @@
+
+[
+    {
+        "headline": "Bits of my work"
+    },
+    {
+        "icon": "far fa-edit",
+        "title": "First thing",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda dolor voluptatem hic omnis rerum in atque harum ..."
+    },
+    {
+        "icon": "far fa-keyboard",
+        "title": "Second thing",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda dolor voluptatem hic omnis rerum in atque harum ..."
+    },
+    {
+        "icon": "far fa-envelope",
+        "title": "Third thing",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda dolor voluptatem hic omnis rerum in atque harum ..."
+    }
+]
+
