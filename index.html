@@ -217,8 +217,8 @@
     <section class="contact">
         <div class="container m-5">
           <h2 class="contact-HL mb-5">Contact me:</h2>
+          <form action="POST" data-netlify="true"></form>
           <div class="row justify-content-center align-items-center">
-            
             <div class="col-md-5">
               <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label">Email address</label>
@@ -228,7 +228,9 @@
                 <label for="exampleFormControlTextarea1" class="form-label">Write your message...</label>
                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
               </div>
-              
+              <div class="fiels">
+                <div data-netlify-recaptcha="true"></div>
+              </div>
               <button type="button" class="btn btn-outline-secondary">
                 Send the message
               </button>
@@ -237,6 +239,7 @@
               <img class="w-100" src="img/Misa_Andel_web-15.png" alt="Contact image" />
             </div>
           </div>
+        </form>
         </div>
       </section>
 
